@@ -1,0 +1,17 @@
+{
+  "name": "exif-gps-to-json-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ole Michelsen",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-data": "^1.0.2",
+    "gulp-exif": "omichelsen/gulp-exif#package-main-fix",
+    "gulp-extend": "^0.2.0"
+  }
+}
