@@ -1,5 +1,7 @@
 # Showing photo GPS location on Google Maps with gulp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/omichelsen/exif-gps-to-json-example.svg)](https://greenkeeper.io/)
+
 This is the example code for the article [Showing photo GPS location on Google Maps with gulp](http://ole.michelsen.dk/blog/showing-photo-gps-location-on-google-maps-with-gulp.html).
 
 ## Running the code
